@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Emily Teodoro
+- 🌱 I’m currently learning front-end
